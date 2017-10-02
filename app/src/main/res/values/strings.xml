@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Buku Saku BP2APD</string>
+    <string name="home_menu_cari_indikator">Cari Indikator</string>
+    <string name="home_menu_cari_dokumen">Cari Dokumen</string>
+    <string name="home_menu_pengetahuan_dasar">Pengetahuan Dasar</string>
+    <string name="home_menu_catatan">Catatan Rapat/DL</string>
+    <string name="home_menu_permintaan_data">Permintaan Data</string>
+    <string name="home_menu_fasumsosgo">Fasumsos Go</string>
+    <string name="home_menu_survei_propoor">Survei ProPoor</string>
+    <string name="home_menu_template">Contoh Laporan/Surat</string>
+</resources>

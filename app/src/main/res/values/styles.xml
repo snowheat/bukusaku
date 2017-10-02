@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/bp2Primary</item>
+        <item name="colorPrimaryDark">@color/bp2Accent</item>
+        <item name="colorAccent">@color/bp2Accent</item>
+        <item name="colorControlHighlight">@color/bp2Accent</item>
+        <item name="android:actionBarWidgetTheme">@color/bp2PrimaryLight</item>
+    </style>
+
+    <style name="AppTheme.Button">
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="AppTheme.Toolbar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:background">@color/bp2PrimaryDark</item>
+        <item name="android:textColorPrimary">@color/bp2PrimaryLight</item>
+        <item name="android:textColorSecondary">@color/bp2PrimaryLight</item>
+    </style>
+
+</resources>

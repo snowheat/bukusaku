@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bp2Primary">#6a1b9a</color>
+    <color name="bp2PrimaryDark">#4a148c</color>
+    <color name="bp2PrimaryLight">#ede7f6</color>
+    <color name="bp2Accent">#ffd54f</color>
+    <color name="bp2PrimaryText">#212121</color>
+    <color name="bp2SecondaryText">#9c27b0</color>
+    <color name="bp2SearchHintText">#b090c3</color>
+    <color name="bp2Icons">#FFFFFF</color>
+    <color name="bp2Divider">#BDBDBD</color>
+
+</resources>
